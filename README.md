@@ -252,7 +252,7 @@ pip install numpy cocotb
 make -C tb/pe SIM=xcelium
 ```
  
-Synthesis, place-and-route, and signoff commands will be added as those phases come online.
+Synthesis, place-and-route, and signoff commands will be added as we go.
  
 ---
  
