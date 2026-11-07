@@ -1,3 +1,6 @@
+## Note: We have changed to SkyWater 130nm as it's compatible with TinyTapeout
+
+
 # TPU-Lite
 
 A multi-core int8 matrix-multiply accelerator, inspired by Google's TPU, designed in Verilog and taken from RTL to GDS on the open-source IHP SG13G2 130nm PDK.
